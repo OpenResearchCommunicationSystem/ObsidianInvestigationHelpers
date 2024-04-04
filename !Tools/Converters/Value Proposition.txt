@@ -1,0 +1,76 @@
+## Obsidian is the Anti-Palantir
+---
+- Personal
+- Free 
+- Data in folders, not in program
+- Universal formats
+---
+## Discovery of relationships 
+---
+
+Across cases, projects and folders.
+- [[search]] 
+- [[linked mentions]]
+- [[unlinked mentions]] 
+
+---
+## Automated knowledge base creation
+---
+- instant [[graph view]] 
+![[Pasted image 20240331000209.png]]
+
+---
+## Index and living file folder concept
+
+---
+- The actual obsidian file is an in Index called a [[Vault]], 
+- User data is stored in markdown text files. 
+- Loss of the software will never causes a loss of data
+
+---
+## Markdown 
+
+---
+- Text files with a .md extension instead of a .txt. 
+- English keyboard symbols for formatting
+- [[Markdown Formatting]] is human readable.  
+
+---
+```md
+## Obsidian is the Anti-Palantir
+---
+- Personal
+- Free 
+- Data in folders, not in program
+- Universal formats
+---
+## Discovery of relationships 
+---
+
+Across cases, projects and folders.
+- [[search]] 
+- [[linked mentions]]
+- [[unlinked mentions]] 
+
+---
+## Automated knowledge base creation
+---
+- instant [[graph view]] 
+![[Pasted image 20240331000209.png]]
+
+---
+## Index and living file folder concept
+
+---
+- The actual obsidian file is an in Index called a Vault, 
+- User data is stored in markdown text files. 
+- Loss of the software will never causes a loss of data
+
+---
+## Markdown 
+
+---
+- Text files with a .md extension instead of a .txt. 
+- English keyboard symbols for formatting
+- [[Markdown Formatting]] is human readable.  
+```

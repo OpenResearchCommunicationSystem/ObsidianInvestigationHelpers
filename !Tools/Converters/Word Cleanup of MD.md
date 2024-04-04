@@ -1,0 +1,7 @@
+
+```
+
+[[wikilink]]
+[externallink](external)
+```anycharactrswithoutaspace
+

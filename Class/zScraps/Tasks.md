@@ -1,0 +1,3 @@
+- [x] Task 1 Complete
+- [ ] Task 2 Open
+- [ ] Task 3 Open

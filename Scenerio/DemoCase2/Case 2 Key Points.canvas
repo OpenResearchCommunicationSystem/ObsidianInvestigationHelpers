@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"406a43b296b849b6","x":-580,"y":-268,"width":1360,"height":568,"type":"group","label":"Case 2"},
+		{"id":"8fce74754c44d560","x":-117,"y":-248,"width":400,"height":528,"type":"file","file":"Scenerio/DemoCase2/People/Jama L Grayson.md"},
+		{"id":"7cedc1324ace083f","x":-560,"y":-248,"width":400,"height":528,"type":"file","file":"Scenerio/DemoCase2/People/Yolonda J Samons.md"},
+		{"id":"fc942f50b9345cd5","x":320,"y":-248,"width":400,"height":528,"type":"file","file":"Scenerio/DemoCase2/People/Jay P Coelho.md"}
+	],
+	"edges":[]
+}
